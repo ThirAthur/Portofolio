@@ -39,12 +39,12 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  padding-top: 60px;
+  padding-top: 120px;
   padding-bottom: 60px;
   justify-content:center;
   gap: 20px;
   height: fit-content;
-  padding-bottom: 60px;
+  padding-bottom: 120px;
 }
 .overlay {
   background-color: #3e3842;
