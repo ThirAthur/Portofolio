@@ -1,1 +1,1 @@
-https://thirathur.github.io/Portofolio/
+link portofolio: https://thirathur.github.io/Portofolio/
